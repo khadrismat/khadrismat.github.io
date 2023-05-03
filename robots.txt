@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://khadrismat.github.io/sitemap.xml
